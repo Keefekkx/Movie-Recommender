@@ -8,10 +8,6 @@ __pycache__/
 # Virtual environment
 venv/
 
-# Output data
-outputs/*.csv
-outputs/*.txt
-
 # VSCode settings
 .vscode/
 
