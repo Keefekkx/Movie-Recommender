@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scipy
+networkx
+requests
+kagglehub
+SPARQLWrapper
+scikit-learn
+lightfm
+implicit
