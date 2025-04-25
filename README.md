@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ## 📚 References
 
 - [MovieLens dataset](https://www.kaggle.com/datasets/odedgolden/movielens-1m-dataset/data)
-- [MappingMovielens2DBpedi](https://github.com/sisinflab/LODrecsys-datasets)
+- [MappingMovielens2DBpedia](https://github.com/sisinflab/LODrecsys-datasets)
 - [DBpedia SPARQL endpoint](http://dbpedia.org/sparql)  
 - [LightFM library](https://github.com/lyst/lightfm)  
 - [Implicit library for ALS](https://github.com/benfred/implicit)  
